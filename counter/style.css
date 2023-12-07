@@ -1,0 +1,35 @@
+.BodyCounter {
+    text-align: center;
+}
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.MBtn {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    background-color:crimson;
+    color: white;    
+}
+
+.RBtn {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    background-color:white;
+    color: rgb(0, 0, 0);   
+}
+
+.PBtn {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    background-color:rgb(67, 220, 20);
+    color: white;   
+}
+
+.numb {
+    font-size: 24px;
+    color: grey;
+}
